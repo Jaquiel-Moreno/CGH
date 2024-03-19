@@ -1,0 +1,18 @@
+
+body {
+    background-color:rgba(255, 0, 115, 0.171);
+}
+
+.div1{
+    text-align: center;
+    color: blue;
+
+}
+.rodape{
+    font-style: italic;
+    font-size: 16px;
+    margin: 0 auto;
+    text-align: center; 
+    margin-top: 100%;
+
+}
